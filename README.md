@@ -1,9 +1,9 @@
 ## Hi I'm Artem 👋
 
 ![Artem](https://i.ibb.co/nQHr6rw/image.jpg)
-```
+
 :computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ From :ukraine: Living in Lisbon :portugal:
-``` 
+
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
