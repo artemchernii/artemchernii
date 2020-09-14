@@ -2,7 +2,7 @@
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
-:computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ :Ukraine:Living in Lisbon :Portugal:
+:computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ :ukraine:Living in Lisbon :portugal:
 
 ### My Tech Stack
 
