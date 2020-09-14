@@ -1,6 +1,6 @@
 ## Hi I'm Artem 👋
 
-![Artem](https://ibb.co/1RDZ7Z0)
+![Artem](https://i.ibb.co/nQHr6rw/image.jpg)
 
 :computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ From :ukraine: Living in Lisbon :portugal:
 
