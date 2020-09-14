@@ -1,6 +1,6 @@
 ## Hi I'm Artem 👋
 
-![Artem](https://ibb.co/1RDZ7Z0 "Artem")
+![Artem](https://ibb.co/1RDZ7Z0)
 
 :computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ From :ukraine: Living in Lisbon :portugal:
 
@@ -30,6 +30,3 @@
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
----
-⭐️ From [Gaboso](https://github.com/Gaboso)
