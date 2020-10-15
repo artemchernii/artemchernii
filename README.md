@@ -41,4 +41,3 @@ Hi I'm Artem 👋:computer: _Front End Developer at [pdmfc.com](https://github.c
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/artemchernii/)](https://github.com/artemchernii/)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-2
