@@ -6,7 +6,6 @@ Hi I'm Artem 👋:computer: _Front End Developer at [osf.digital](https://osf.di
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artemchernii)](https://www.linkedin.com/in/artemchernii)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/artemcherniy7)](https://t.me/artemcherniy7)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemcherniy7@gmail.com)](mailto:artemcherniy7@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:artemcherniy@hotmail.com)](mailto:artemcherniy@hotmail.com)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
