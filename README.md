@@ -1,6 +1,6 @@
 ![Artem](https://i.ibb.co/RYZtvhy/Group-1.png)
 
-Hi I'm Artem 👋:computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ | From :ukraine: Living in Lisbon :portugal:
+Hi I'm Artem 👋:computer: _Front End Developer at [osf.digital](https://osf.digital/)_ | From :ukraine: Living in Lisbon :portugal:
 
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artemchernii)](https://www.linkedin.com/in/artemchernii)
