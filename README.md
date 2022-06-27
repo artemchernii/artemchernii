@@ -1,4 +1,4 @@
-![Artem](https://i.ibb.co/nQHr6rw/image.jpg)
+![Artem](https://i.ibb.co/RYZtvhy/Group-1.png)
 
 Hi I'm Artem 👋:computer: _Front End Developer at [pdmfc.com](https://github.com/pdmfc)_ | From :ukraine: Living in Lisbon :portugal:
 
