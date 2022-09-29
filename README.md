@@ -17,13 +17,6 @@ Hi I'm Artem 👋:computer: _Front End Developer at [osf.digital](https://osf.di
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-#### Database
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/artemchernii/)](https://github.com/artemchernii/)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/artemchernii/)](https://github.com/artemchernii/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/artemchernii/)](https://github.com/artemchernii/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/artemchernii/)](https://github.com/artemchernii/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/artemchernii/)](https://github.com/artemchernii/)
-
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
