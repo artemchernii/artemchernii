@@ -1,1 +1,1 @@
-![Artem](https://i.ibb.co/ypgGdzB/Banner-wide.png)
+![Artem](https://i.ibb.co/Hr3nDYS/Banner.png)
