@@ -1,4 +1,4 @@
-![Artem](https://i.ibb.co/Hr3nDYS/Banner.png)
+![Artem]([https://i.ibb.co/Hr3nDYS/Banner.png](https://i.ibb.co/sVm77nx/New-Banner.png))
 # 👋 Hi there! I'm Artem Chernii, a passionate front-end developer.
 
 ## 🔧 Skills
