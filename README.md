@@ -1,11 +1,11 @@
 ![Artem](https://i.ibb.co/h8FgHHz/Git-Banner.png)
-# 👋 Hi there! I'm Artem Chernii, a passionate front-end developer.
+# 👋 Hi there! I'm Artem Chernii, a front-end developer.
 
 ## 🔧 Skills
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, TypeScript
 - React.js, Next.js, Node.js
-- Tailwind, Bootstrap
+- Tailwind, Bootstrap, MUI
 - Responsive Web Design
 - UI/UX Design, Figma
 - Git
@@ -14,7 +14,7 @@
 
 - [Portfolio/Blog](https://yourportfolio.com)
 - [LinkedIn](https://linkedin.com/in/yourname)
-- [Twitter](https://twitter.com/yourtwitter)
+- [Twitter](https://twitter.com/artem_chernii)
 
 ## 🙌 Let's Collaborate!
 
