@@ -13,7 +13,7 @@
 ## 🌐 Connect
 
 - [Portfolio/Blog](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [LinkedIn](https://linkedin.com/in/artemchernii)
 - [Twitter](https://twitter.com/artem_chernii)
 
 ## 🙌 Let's Collaborate!
