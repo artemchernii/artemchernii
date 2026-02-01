@@ -1,4 +1,4 @@
-![Artem](https://i.ibb.co/h8FgHHz/Git-Banner.png)
+![Artem](https://i.ibb.co/1Y74xzpB/banner2026-3.png)
 
 ## Skills
 
